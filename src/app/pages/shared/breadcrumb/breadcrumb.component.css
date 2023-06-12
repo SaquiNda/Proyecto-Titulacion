@@ -1,0 +1,10 @@
+.container-fluid
+{
+  background-color: #163049;
+}
+
+.container-fluid .row .col-sm-12 img
+{
+  color: #fff;
+
+}
