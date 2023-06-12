@@ -1,0 +1,10 @@
+.container .navbar
+{
+  background-color: #163049;
+  border-radius: 5px;
+}
+.container .navbar a
+{
+  color: #fff;
+  font-size: 18px;
+}
